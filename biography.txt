@@ -1,8 +1,27 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+
 1. What is your name?
+Derek Hilmershausen
+
 2. Why are you interested in Data Science?
+Computer programming has interested me for many years now, but it wasn't until I ran across a description of Data Science that I really wanted to learn it.  I have a good
+background in mathematics as well so it seemed obvious to me that I needed to get into a Data Science program.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I don't have very much programming experience to date.  I have taken some introductory courses in Java Script and SQL, and also over the summer, I completed DS705, which used R
+extensively to solve statistical problems.  I do not use programming in my current job at all.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+My background in statistics is pretty good.  I received a degree in Actuarial Science about 10 years ago, so I had taken a few statistic courses at one time before I 
+enrolled in this program.  I took DS705 over the summer and while it was a bit of a struggle initially getting back in the swing of things, they eventually came back to
+me and I did well in that class.  I don't not use statistics in my job on a regular basis.  I've tried incorporating some methods in my job a few times just for fun, but it wasn't
+mandatory.
+
 5.  Do you have other experience with R or Python?
+I have experience with R from DS705 over the summer, but I have no experience with Python.
+
 6.  What do you hope to learn in this class?
+I hope to continue getting better with R as it is a very cool language and I enjoyed using the program thouroughly.
+
 7.  Is there anything else you would like to share with us?
+I enjoy golf, fishing and watching football.  I'm really looking forward to the Fall.
